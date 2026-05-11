@@ -327,9 +327,7 @@ THEN churn risk = 67.4% (2.5× baseline)
 
 ## Author
 
-Built with the [Kimi K2.6](https://kimi.moonshot.cn) AI assistant in GitHub Codespaces.
-
----
+Designed and engineered by Jeff Omondi Ooko
 
 ## License
 
